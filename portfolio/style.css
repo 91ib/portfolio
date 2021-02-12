@@ -1,0 +1,38 @@
+body {
+  background-color: #99ff33;
+}
+h1 {
+  font-size: 6em;
+text-align: center;
+color: black;
+font-family: Arial black;
+}
+
+p {
+font-size: 2em;
+  color: black;
+text-align: center;
+font-family: Arial black;
+}
+
+h2 {
+  font-size: 6em;
+text-align: center;
+color: black;
+font-family: Arial black;
+}
+
+li {
+text-align: center;
+font-family: Arial black;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.wrapper {
+  display: flex;
+flex-direction: row;
+justify-content: space-evenly;
+}
